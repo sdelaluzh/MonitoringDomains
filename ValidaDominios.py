@@ -11,7 +11,6 @@ def main():
     domains = [
         "www.example.com",
         "www.google.com",
-        "www.openai.com",
         "invalid-domain.com"  # Un dominio inválido para probar el manejo de errores
     ]
 
